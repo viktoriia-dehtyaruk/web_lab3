@@ -1,0 +1,42 @@
+table {
+    width: 100%;
+    align-items: center;
+    font-size: 25px;
+}
+.header {
+    height: 100px;
+    background-color: aquamarine;
+    text-align: left;
+    
+}
+.header td {
+    padding: 10px;
+}
+.two {
+    height: 500px;
+    width: 20%;
+    background-color: blueviolet;
+    text-align: left;
+    padding: 10px;
+}
+.four {
+    width: 60%;
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+}
+.five {
+    width: 20%;
+    text-align: left;
+    background-color: crimson;
+    padding: 10px;
+}
+.footer {
+    background-color:coral;
+    text-align: left;
+    height: 50px;
+    padding: 10px;
+}
+.footer td {
+    padding: 10px;
+}

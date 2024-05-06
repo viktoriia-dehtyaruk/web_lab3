@@ -1,0 +1,48 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 100px;
+    width: 100%;
+    background-color: aquamarine;
+    text-align: left;
+}
+.num {
+    position: relative;
+}
+.two {
+    position: absolute;
+    height: 500px;
+    width: 20%;
+    background-color: blueviolet;
+    text-align: left;
+    left: 0;
+    top: 0;
+}
+.four {
+    width: 80%;
+    position: absolute;
+    height: 425px;
+    top: 75px;
+    left: 20%;
+    text-align: center;
+    background-color: beige;
+}
+.five {
+    text-align: left;
+    background-color: crimson;
+    width: 80%;
+    position: absolute;
+    left: 20%;
+    top: 0;
+    height: 75px;
+}
+.footer {
+    background-color:coral;
+    text-align: left;
+    height: 100px;
+    position: absolute;
+    width: 100%;
+    top: 500px;
+}

@@ -1,0 +1,52 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+.header {
+    height: 100px;
+    width: 1000px;
+    background-color: aquamarine;
+    text-align: left;
+}
+.num {
+    position: relative;
+}
+.two {
+    position: absolute;
+    height: 500px;
+    width: 200px;
+    background-color: blueviolet;
+    text-align: left;
+    left: 0;
+    top: 0;
+    padding: 10px;
+}
+.four {
+    width: 760px;
+    position: absolute;
+    height: 405px;
+    top: 95px;
+    left: 220px;
+    text-align: center;
+    background-color: beige;
+    padding: 10px;
+}
+.five {
+    text-align: left;
+    background-color: crimson;
+    width: 760px;
+    position: absolute;
+    left: 220px;
+    top: 0;
+    padding: 10px;
+    height: 75px;
+}
+.footer {
+    background-color:coral;
+    text-align: left;
+    height: 50px;
+    padding: 10px;
+    position: absolute;
+    top: 620px;
+    width: 980px;
+}
